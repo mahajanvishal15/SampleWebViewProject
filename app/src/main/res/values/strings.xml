@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample WebView Project</string>
+    <string name="stringSubmitButton">Submit</string>
+    <string name="stringUrlText">Please enter URL</string>
+</resources>
